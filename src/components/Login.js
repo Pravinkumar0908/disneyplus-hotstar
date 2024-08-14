@@ -17,12 +17,12 @@ import {
 } from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBWPPT6eIYtnXoTBUlo3CMLl4M2TQJeFoM",
-    authDomain: "ecommerce-34f94.firebaseapp.com",
-    projectId: "ecommerce-34f94",
-    storageBucket: "ecommerce-34f94.appspot.com",
-    messagingSenderId: "281987588521",
-    appId: "1:281987588521:web:YOUR_SPECIFIC_APP_ID"
+    apiKey: "",
+    authDomain: ".firebaseapp.com",
+    projectId: "",
+    storageBucket: ".appspot.com",
+    messagingSenderId: "=",
+    appId: "1::web:YOUR_SPECIFIC_APP_ID"
 };
 
 const app = initializeApp(firebaseConfig);
